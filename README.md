@@ -1,86 +1,91 @@
-# 🪑 Modern Chair UI — Pure HTML & CSS Brilliance
+# 🪑 Modern Chair UI — Next-Level CSS Magic
 
-A sleek, responsive product page made with just **HTML** and **CSS** — no JavaScript, no frameworks, just clean design and creative logic. Built to show how powerful CSS can be when pushed to its limits.
+> “No JavaScript. No frameworks. Just skill.”  
+> Built with 💻 pure **HTML & CSS**, this interactive product page is a pixel-perfect blend of minimalism, transition effects, and responsive design.  
+> Designed to show how much you can achieve with just front-end fundamentals — and no shortcuts.
 
-![Preview](Images/screenshot.png)
-
----
-
-## 🚀 Live Demo
-
-👉 **Check it Out:** [Modern Chair UI on GitHub Pages](https://hunnyBunny14.github.io/modern-chair-ui/)
+![Screenshot](Images/screenshot.png)
 
 ---
 
-## ✨ Features That Make It Pop
+## 🚀 Live Preview
 
-✅ **Responsive Design** – Looks smooth on all devices  
-🎨 **Color Switcher** – Instantly changes chair color & background  
-🪑 **Image Transitions** – Animated preview changes without JS  
-🔄 **Description Toggle** – Controlled via radio buttons only  
-⚡ **Zero JavaScript** – 100% HTML5 + CSS3 + creativity
+🔗 [hunnyBunny14.github.io/modern-chair-ui](https://hunnyBunny14.github.io/modern-chair-ui/)
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What Makes It Stand Out
+
+🧠 **100% CSS-powered interactivity** — no JavaScript needed  
+🎨 **Real-time color switcher** — seamless image + background swap  
+📱 **Fully responsive** — from mobile to widescreen  
+🎞️ **Custom animations** — keyframes, transitions, fluidity  
+🔘 **Description toggles** — handled by radio buttons + CSS selectors  
+🎯 **High-quality UI** — smooth, modern, and reusable
+
+---
+
+## 🛠️ Built Using
 
 - HTML5
 - CSS3
-- Unicons by IconScout
+- Unicons (via IconScout)
 - Google Fonts
-- GitHub Pages (for hosting)
+- Hosted on GitHub Pages
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Overview
 
 modern-chair-ui/
 ├── index.html
 ├── styles.css
 └── Images/
-├── chair1.png
-├── chair2.png
-├── ...
-├── color6.jpg
+├── chair1.png → chair6.png
+├── color1.jpg → color6.jpg
 └── screenshot.png
+
 ---
 
-## 📸 Visual Peek
+## 🎥 Visuals
 
-| 🎯 Default View | 🎯 Switched Color |
-|----------------|------------------|
+| 🟢 Default View | 🟣 Switched Variant |
+|----------------|---------------------|
 | ![](Images/chair1.png) | ![](Images/chair3.png) |
 
 ---
 
-## 🙌 Inspirations & Credits
+## 👨‍💻 Author & Credits
 
-- 🎨 UI/UX inspired by clean eCommerce designs
-- 🔠 Fonts from [Google Fonts](https://fonts.google.com/)
-- 💠 Icons from [IconScout Unicons](https://iconscout.com/unicons)
-
----
-
-## 💡 What I Learned
-
-> How to use pure HTML & CSS to build highly interactive UIs without touching JavaScript. Learned to combine radio inputs, sibling selectors, transitions, and keyframes for real-world visual logic.
+**Sahil Kumar**  
+B.Tech CSE (AI & ML) — Graphic Era University  
+📍 India | 🎯 Batch: 2024–2028  
+🔗 [GitHub](https://github.com/hunnyBunny14) | [LinkedIn](https://www.linkedin.com/in/hunnyBunny14)
 
 ---
 
-## 👨‍💻 Author
+## 🤝 Acknowledgements
 
-**Hunny Dhingia**  
-🎓 B.Tech CSE (AI & ML) | Graphic Era University  
-🗓️ Batch: 2024–2028  
-🌐 [GitHub](https://github.com/hunnyBunny14) | [LinkedIn](https://www.linkedin.com/in/hunnyBunny14)
+- UI inspired by modern eCommerce trends  
+- Fonts: [Google Fonts](https://fonts.google.com)  
+- Icons: [Unicons by IconScout](https://iconscout.com/unicons)
 
 ---
 
-## ⭐ Show Some Love
+## 🧠 Key Learnings
 
-If you found this helpful, inspiring, or cool —  
-🔹 Give it a ⭐ on GitHub  
-🔹 Share it with your dev circle  
-🔹 Or remix it for your next UI experiment!
+> Learned how to use radio inputs + advanced CSS selectors + animations to simulate dynamic UI without any JS. This project made me realize how powerful “just CSS” can be in product design.
 
-Let’s build beautiful web experiences — one line of code at a time.
+---
+
+## ⭐ Show Support
+
+If you like what you see:
+- Drop a ⭐ on the repo
+- Share it with other developers
+- Or remix it for your own CSS experiment!
+
+---
+
+**Built with 💯 passion & zero shortcuts.**
+
